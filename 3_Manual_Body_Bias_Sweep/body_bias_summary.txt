@@ -1,0 +1,3 @@
+Body bias sweep range: -0.3V to +0.3V
+Optimal Vbody found near +0.18V
+Qcrit increased from 25fC to 32fC

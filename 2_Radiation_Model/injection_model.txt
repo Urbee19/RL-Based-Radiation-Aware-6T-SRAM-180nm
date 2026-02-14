@@ -1,0 +1,7 @@
+Iinj = I0 * exp(-t/tau1) * (1 - exp(-t/tau2))
+
+I0 = 1mA
+tau1 = 50ps
+tau2 = 5ps
+
+Injection Node: Storage node Q

@@ -1,0 +1,8 @@
+Technology: 180nm CMOS
+Vdd = 1.8V
+Wp = 0.6um
+Wn = 0.3um
+Waccess = 0.4um
+Qcrit = 25fC
+SNM = 180mV
+Recovery = 600ps

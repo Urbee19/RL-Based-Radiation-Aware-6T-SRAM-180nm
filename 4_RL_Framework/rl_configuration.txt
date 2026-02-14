@@ -1,0 +1,13 @@
+State:
+[Qcrit, SNM, Recovery_time, Power, Vbody, W/L]
+
+Actions:
+Increase Wp
+Increase Wn
+Adjust Vbody ±20mV
+
+Reward:
+0.5(Qcrit_norm) + 0.3(SNM_norm)
+- 0.1(Delay_norm) - 0.1(Power_norm)
+
+Episodes: 100
